@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DarkCloud</string>
+    <string name="no_daily_forecast">There is no data to display</string>
+    <string name="at_5_o_clock_it_will_be">At 5\'o clock it will be</string>
+    <string name="chicago_il">Chicago, IL</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="_0_88">0.88</string>
+    <string name="rain">RAIN</string>
+    <string name="_70">70%</string>
+    <string name="chances_of_rain">chances of Rain</string>
+    <string name="hourly">HOURLY</string>
+    <string name="_7_day">7 DAY</string>
+    <string name="_100">100</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="temp">temp</string>
+    <string name="partly_cloudy">Partly cloudy</string>
+    <string name="timezone">timezone</string>
+</resources>
